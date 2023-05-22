@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! 👋
 
 Hi guys, this is Miguel! I am a seasoned IT consultant/software engineer with experience mainly in Java and TypeScript frameworks applied to the Public Sector, Utilities and Payments.
 
