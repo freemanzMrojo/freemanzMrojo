@@ -2,7 +2,7 @@
 
 Hi guys, this is Miguel! I am a seasoned IT consultant/software engineer with experience mainly in Java and TypeScript frameworks applied to the Public Sector, Utilities and Payments.
 
-My current field of work is Blockchain, pretty much on Ethereum tools but also on Hyperledger Fabric, protocol stuff related to the proprietary Mastercard Blockchain and nowadays on vechain.
+My current field of work is Blockchain, pretty much on Ethereum tools but also on Hyperledger Fabric, protocol stuff related to the proprietary Mastercard Blockchain and nowadays on Vechain.
 
 Welcome to my profile!
 
