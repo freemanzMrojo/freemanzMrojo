@@ -6,7 +6,7 @@ My current field of work is Blockchain, pretty much on Ethereum tools but also o
 
 Welcome to my profile!
 
-- 🔭 I’m currently working on [VORJ](https://vorj.app/), an application running on top of the VechainThor blockchain to help users leverage the potential of [Vechain](http://vechain.org/) for different use cases!
+- 🔭 I’m currently working on [VORJ](https://vorj.app/), an application running on top of the [VechainThor](https://github.com/vechain/thor) blockchain to help users leverage the potential of [Vechain](http://vechain.org/) for different use cases!
 
 - 💬 Ask me about Java, TypeScript and Ethereum-related stuff :)
 
