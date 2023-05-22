@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**freemanzMrojo/freemanzMrojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi guys, this is Miguel! I am a seasoned IT consultant/software engineer with experience mainly in Java and TypeScript frameworks applied to the Public Sector, Utilities and Payments.
 
-Here are some ideas to get you started:
+My current field of work is Blockchain, pretty much on Ethereum tools but also on Hyperledger Fabric, protocol stuff related to the proprietary Mastercard Blockchain and nowadays on vechain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my profile!
+
+- 🔭 I’m currently working on [VORJ](https://vorj.app/), an application running on top of the VechainThor blockchain to help users leverage the potential of [Vechain](http://vechain.org/) for different use cases!
+
+- 💬 Ask me about Java, TypeScript and Ethereum-related stuff :)
+
+- 📫 How to reach me: 
+  * [Discord](https://discordapp.com/users/720641577948807178)
+  * [Twitter](https://twitter.com/mrojofer)
+  * [LinkedIn](https://www.linkedin.com/in/miguel-%C3%A1ngel-rojo-fern%C3%A1ndez-14495441/)
+
+- 😄 Pronouns: He/him
