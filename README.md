@@ -12,7 +12,6 @@ Welcome to my profile!
 
 - 📫 How to reach me: 
   * [Discord](https://discordapp.com/users/720641577948807178)
-  * [Twitter](https://twitter.com/mrojofer)
   * [LinkedIn](https://www.linkedin.com/in/miguel-%C3%A1ngel-rojo-fern%C3%A1ndez-14495441/)
 
 - 😄 Pronouns: He/him
