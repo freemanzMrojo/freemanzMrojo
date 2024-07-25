@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-Hi guys, this is Miguel! I am a seasoned IT consultant/software engineer with experience mainly in Java and TypeScript frameworks applied to the Public Sector, Utilities and Payments.
+Hi guys, this is Miguel! I am a seasoned consultant/software engineer with experience mainly in Java and TypeScript frameworks applied to the Public Sector, Utilities and Payments.
 
 My current field of work is Blockchain, pretty much on Ethereum tools but also on Hyperledger Fabric, protocol stuff related to the proprietary Mastercard Blockchain and nowadays on [vechain](http://vechain.org/).
 
@@ -10,8 +10,6 @@ Welcome to my profile!
 
 - 💬 Ask me about Java, TypeScript and Ethereum-related stuff :)
 
-- 📫 How to reach me: 
-  * [Discord](https://discordapp.com/users/720641577948807178)
-  * [LinkedIn](https://www.linkedin.com/in/miguel-%C3%A1ngel-rojo-fern%C3%A1ndez-14495441/)
+- 📫 Reach me at [Discord](https://discordapp.com/users/720641577948807178)
 
 - 😄 Pronouns: He/him
