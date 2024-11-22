@@ -7,8 +7,9 @@ My current field of work is Blockchain, pretty much on Ethereum tools but also o
 Welcome to my profile!
 
 - 🔭 The projects I am currently working on are:
-  - [VORJ](https://vorj.app/), an application running on top of the [VeChainThor](https://github.com/vechain/thor) blockchain to help users leverage its potential for different use cases, like token creation (ERC20, ERC721...) without any code or wallet interactions.
-  - [VeChain SDK](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk), the integration point for devs to help them build amazing stuff using VeChain technology 💻 
+  - [VORJ](https://vorj.app/), an application running on top of the VeChainThor blockchain to help users leverage its potential for different use cases, like token creation (ERC20, ERC721...) without any code or wallet interactions.
+  - [VeChain SDK](https://docs.vechain.org/developer-resources/sdks-and-providers/sdk), the integration point for devs to help them build amazing stuff using VeChain technology 💻
+  - [VeChainThor](https://github.com/vechain/thor), the EVM-friendly blockchain that empowers a sustainable future 🌱
 
 - 💬 Ask me about Java, TypeScript and Ethereum-related stuff :)
 
