@@ -13,4 +13,4 @@ Welcome to my profile!
 
 - 💬 Ask me about Java, TypeScript and Ethereum-related stuff :)
 
-- 📫 Reach me at [Discord](https://discordapp.com/users/720641577948807178)]
+- 📫 Reach me at [Discord](https://discordapp.com/users/720641577948807178)
