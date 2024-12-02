@@ -13,6 +13,4 @@ Welcome to my profile!
 
 - 💬 Ask me about Java, TypeScript and Ethereum-related stuff :)
 
-- 📫 Reach me at [Discord](https://discordapp.com/users/720641577948807178)
-
-- 😄 Pronouns: He/him
+- 📫 Reach me at [Discord](https://discordapp.com/users/720641577948807178)]
