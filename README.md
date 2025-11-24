@@ -2,7 +2,7 @@
 
 Hi guys, this is Miguel! I am a seasoned consultant/software engineer with experience mainly in Java and TypeScript frameworks applied to the Public Sector, Utilities and Payments.
 
-I'm currently working in the blockchain space for the [VeChain Foundation](http://vechain.org/). In the past, I've worked extensively with Ethereum tools, Hyperledger Fabric, and protocol-level development on Mastercard's proprietary blockchain.
+I have accumulated experience across several blockchain ecosystems, including Ethereum, Hyperledger Fabric, Mastercard’s proprietary protocol, and, most recently, the VeChain ecosystem.
 
 Welcome to my profile!
 
