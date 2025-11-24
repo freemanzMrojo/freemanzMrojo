@@ -6,6 +6,6 @@ I have accumulated experience across several blockchain ecosystems, including Et
 
 Welcome to my profile!
 
-- 💬 Ask me about Java, TypeScript and Ethereum-related stuff :)
+- 💬 Ask me about Java, TypeScript and blockchain-related stuff :)
 
 - 📫 Reach me at [Discord](https://discordapp.com/users/720641577948807178)
