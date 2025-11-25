@@ -6,6 +6,6 @@ I have also built a solid background in multiple blockchain ecosystems, includin
 
 Welcome to my profile!
 
-- 💬 Ask me about Java, TypeScript and blockchain-related stuff. I also have some Go experience! :)
+- 💬 Ask me about Java, TypeScript and blockchain-related stuff. I also have some Go experience! 😃
 
 - 📫 Reach me at [Discord](https://discordapp.com/users/720641577948807178)
