@@ -5,5 +5,3 @@ Hi everyone, this is Miguel! I am a seasoned consultant and software engineer wi
 I have also built a solid background in multiple blockchain ecosystems, including Ethereum, Hyperledger Fabric, Mastercard’s proprietary protocol and VeChain.
 
 Welcome to my profile!
-
-📫 Reach me at [Discord](https://discordapp.com/users/720641577948807178)
